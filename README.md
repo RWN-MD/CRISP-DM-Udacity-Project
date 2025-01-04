@@ -23,7 +23,7 @@ Understanding the relationship between patient volume and performance is critica
 
 ## Files in the Repository
 
-- `notebook.ipynb`: Jupyter Notebook containing the complete analysis, including data processing, exploratory analysis, modeling, and visualization.
+- `CRISP_DM_Udacity_Project_Notebook.ipynb`: Jupyter Notebook containing the complete analysis, including data processing, exploratory analysis, modeling, and visualization.
 - `README.md`: This file, providing an overview of the project, methodology, and results.
 
 ## CRISP-DM Framework
