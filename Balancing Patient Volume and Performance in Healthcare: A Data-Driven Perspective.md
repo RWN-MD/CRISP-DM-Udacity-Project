@@ -110,6 +110,7 @@ These findings underscore the complexity of healthcare performance and the need 
 | **Timely Care**                     | 63.79    | 64.00      | 8.07        | 48.0    | 83.0    | 35.0      | 52    |
 | **Health Promotion and Education**  | 62.47    | 62.00      | 4.78        | 53.0    | 75.0    | 22.0      | 51    |
 | **Patient's Rating of Provider**    | 83.31    | 83.50      | 2.87        | 76.0    | 88.0    | 12.0      | 26    |
+
 **Table 5.** Summary statistics for performance measures, including mean, median, standard deviation, minimum, maximum, range, and sample size. These statistics provide a detailed view of the central tendency and variability within each measure.
 
 ### **Actionable Insights:**
