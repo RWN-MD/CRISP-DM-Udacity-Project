@@ -1,5 +1,7 @@
 # Balancing Patient Volume and Performance in Healthcare: A Data-Driven Perspective
 
+![Balancing Healthcare Performance](https://github.com/RWN-MD/CRISP-DM-Udacity-Project/blob/main/BlogFigures/BlogTitleFigure.jpg)
+
 ## Introduction
 
 In healthcare, achieving balance is often the linchpin of success. Patient volume, in particular, represents a delicate equilibrium where extremes can lead to detrimental consequences. Too high, and the healthcare system risks being overwhelmed, compromising care quality. Too low, and institutions face underutilization, inefficiency, and financial instability. Understanding this dynamic is critical for optimizing healthcare delivery and ensuring sustainable performance.
